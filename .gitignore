@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+data/
+runs/
+outputs/
+*.pt
+*.npz
+.env
+kaggle.json
